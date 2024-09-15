@@ -1,5 +1,1 @@
-if game:GetService("ReplicatedStorage").GameData.Floor.Value == "Mines" then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkDoorsKing/DoorsCode/main/Floor2"))()
-else
-print("Down!")
-end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkDoorsKing/DoorsCode/main/main"))()
